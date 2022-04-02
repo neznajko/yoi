@@ -8,14 +8,12 @@
 - In this problem, we have to find solutions
   in a game of **a** and **b** boxes.
 
+- https://github.com/neznajko/lift
+- [ Actions ]
+- [ Pytthon ]
+- Lift simulation.
+
 <!--
-%
-% lift
-\vspace{0.2cm}
-\hypersetup{urlcolor=ProcessBlue}
-\url{https://github.com/neznajko/lift}
-\hspace*{\fill} \textsf{\textbf{[\,Actions\,]}[\,Python\,]}\\
-{\textsf{\textbf{{\huge L}{\large{ift simulation.}}}}}\\
 %
 % book
 \vspace{0.2cm}
