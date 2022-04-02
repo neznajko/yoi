@@ -1,13 +1,12 @@
 # IOI
-
 ## 1989 Bulgaria
-
+### boxes
 - https://github.com/neznajko/boxes
 - [ Breadth-first search ]
 - [ Python, C ]
 - In this problem, we have to find solutions
   in a game of **a** and **b** boxes.
-
+### lift
 - https://github.com/neznajko/lift
 - [ Actions ]
 - [ Pytthon ]
