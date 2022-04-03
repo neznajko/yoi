@@ -66,7 +66,7 @@
 - https://github.com/neznajko/artGallery
 - [ Combinatorics ]
 - [ Python ]
-- this is about an Art Gallery and covering gaps in a Guards Shedule.
+- This is about an Art Gallery and covering gaps in a Guards Shedule.
 ### Str8
 - https://github.com/neznajko/Str8
 - [ Searching ]
@@ -173,15 +173,15 @@
 ## 1994 Sweden
 ### TheTCP
 - https://github.com/neznajko/TheTCP
-- *** The Triangle ***
+- ***The Triangle***
     - [ d f s ]
     - [ Python ]
     - Maximum sum searching.
-- *** The Castle ***
+- ***The Castle***
     - [ d f s ]
     - [ JavaScript ]
     - Examining castle's interior.
-- *** The Primes ***
+- ***The Primes***
     - [ Backtracking ]
     - [ Python ]
     - Aranging prime numbers in a square.
@@ -276,7 +276,7 @@
 - https://github.com/neznajko/iShongololo
 - [ backtrack ]
 - [ Python ]
-- C onstructing randomly 3d maze.
+- Constructing randomly 3d maze.
 ### cartographer
 - https://github.com/neznajko/cartographer
 - [ backtrack ]
@@ -286,7 +286,7 @@
 - https://github.com/neznajko/chars
 - [ nearest neighbors ]
 - [ Python ]
-- C haracters recognition.
+- Characters recognition.
 ### stacks
 - https://github.com/neznajko/stacks
 - [ binary search, priority queue ]
