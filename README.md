@@ -173,15 +173,15 @@
 ## 1994 Sweden
 ### TheTCP
 - https://github.com/neznajko/TheTCP
-- *** The Triangle ***
+- ***The Triangle***
     - [ d f s ]
     - [ Python ]
     - Maximum sum searching.
-- *** The Castle ***
+- ***The Castle***
     - [ d f s ]
     - [ JavaScript ]
     - Examining castle's interior.
-- *** The Primes ***
+- ***The Primes***
     - [ Backtracking ]
     - [ Python ]
     -  Aranging prime numbers in a square.
