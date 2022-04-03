@@ -11,43 +11,27 @@
 - [ Actions ]
 - [ Pytthon ]
 - Lift simulation.
-
+### book
+- https://github.com/neznajko/book
+- [ Combinatorics ]
+- [ Python ]
+- Here, we have a bunch of people, reading and discussing a book.
+### cipher
+- https://github.com/neznajko/cipher
+- [ encoding ]
+- [ Gas ]
+- TOP SECRET
+### graph
+- https://github.com/neznajko/graph
+- [ Turtle Ninja ]
+- [ Python ]
+- Drawing and walking a graph.
+### Sah
+- https://github.com/neznajko/Sah
+- [ Searching ]
+- [ Python ]
+- Routing polygons, minimizing path cost.
 <!--
-%
-% book
-\vspace{0.2cm}
-\hypersetup{urlcolor=YellowOrange}
-\url{https://github.com/neznajko/book}
-\hspace*{\fill} [\,\textit{Combinatorics}\,]%
-\textbf{[\,Python\,]}\\
-\texttt{{\huge H}{\large ere, we have a bunch of people, reading
-and discussing a book.}}\\
-%
-% cipher
-\vspace{0.2cm}
-\hypersetup{urlcolor=RawSienna}
-\url{https://github.com/neznajko/cipher}
-\hspace*{\fill} \textbf{\textsf{[\,encoding\,]}}%
-\texttt{[\,Gas\,]}\\
-{\large{\texttt{TOP SECRET}}}\\
-%
-% graph
-\vspace{0.2cm}
-\hypersetup{urlcolor=BrickRed}
-\url{https://github.com/neznajko/graph}
-\hspace*{\fill} {\textbf{\textsf{[\,{Turtle Ninja}\,]}%
-[\,\textsl{Python}\,]}}\\
-{\textsf{\huge{D}\large{rawing and walking a graph.}}}\\
-%
-% Sah
-\vspace{0.2cm}
-\definecolor{Sah}{rgb}{0.2, 0.10, 0.70}
-\hypersetup{urlcolor=Sah}
-\url{https://github.com/neznajko/Sah}
-\hspace*{\fill} {\textbf {[\,\textsl {Searching}\,]}}%
-  {\textbf {[\,\textsf {Python}\,]}}\\
-{\textbf{\textsf {{\Huge R}{outing polygons,
-      minimizing path cost.}}}}\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 1990 Soviet Union
 \vspace{0.3cm}
